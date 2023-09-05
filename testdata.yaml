@@ -1,0 +1,8 @@
+address: https://test-stand.gb.ru
+browser: chrome
+sleep_time: 2
+username: 'Roman83'
+password: '5a45102d64'
+url: 'https://test-stand.gb.ru/gateway/login'
+url1: 'https://test-stand.gb.ru/api/posts'
+user_token: '570da6e0f575710d9fdc7c89e18aa6c7'
